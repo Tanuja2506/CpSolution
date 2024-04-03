@@ -21,3 +21,13 @@ int main() {
    printf("\n Difference is:%f",diff);
     return 0;
 }
+
+
+Sample Input :
+3
+10.00
+20.00
+ 30.00 
+
+Sample Output:
+$ 10.00
