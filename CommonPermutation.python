@@ -1,0 +1,4 @@
+a = input("Enter the first string: ")
+b = input("Enter the second string: ")
+common_chars = sorted(set(a) & set(b))
+print("Common characters in ascending order:", " ".join(common_chars))
