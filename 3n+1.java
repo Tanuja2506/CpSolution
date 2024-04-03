@@ -28,3 +28,10 @@ class HelloWorld {
     }
 }
 
+
+Sample Input: 1   10 
+             100   200
+    
+Sample Output : 1 10 20
+                    100 200 125
+
